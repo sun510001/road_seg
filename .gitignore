@@ -1,1 +1,4 @@
-UAS_Dataset/*
+data/*
+runs/*
+
+*.pt
